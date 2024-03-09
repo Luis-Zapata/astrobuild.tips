@@ -1,7 +1,7 @@
 <template>
-	<footer class="bg-gray-100">
+	<footer class="bg-slate-900">
 		<div class="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
-			<div class="flex justify-center text-teal-600">
+			<div class="flex justify-center text-white">
 				<svg
 					class="h-8"
 					viewBox="0 0 118 24"
@@ -51,46 +51,44 @@
 				</svg>
 			</div>
 
-			<p
-				class="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500"
-			>
+			<p class="mx-auto mt-6 max-w-md text-center leading-relaxed text-white">
 				Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt
 				consequuntur amet culpa cum itaque neque.
 			</p>
 
 			<ul class="mt-12 flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12">
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="#">
-						About
+					<a class="text-white transition hover:text-white/75" href="#">
+						Acerca de
 					</a>
 				</li>
 
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="#">
-						Careers
+					<a class="text-white transition hover:text-white/75" href="#">
+						Carreras
 					</a>
 				</li>
 
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="#">
-						History
+					<a class="text-white transition hover:text-white/75" href="#">
+						Historia
 					</a>
 				</li>
 
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="#">
-						Services
+					<a class="text-white transition hover:text-white/75" href="#">
+						Servicios
 					</a>
 				</li>
 
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="#">
-						Projects
+					<a class="text-white transition hover:text-white/75" href="#">
+						Proyectos
 					</a>
 				</li>
 
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="#">
+					<a class="text-white transition hover:text-white/75" href="#">
 						Blog
 					</a>
 				</li>
